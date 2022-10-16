@@ -124,7 +124,7 @@ namespace AppliGestionTrauvaux
             this.txtcode.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtcode.Location = new System.Drawing.Point(124, 83);
             this.txtcode.Name = "txtcode";
-            this.txtcode.Size = new System.Drawing.Size(392, 26);
+            this.txtcode.Size = new System.Drawing.Size(177, 26);
             this.txtcode.TabIndex = 7;
             // 
             // txtnom
@@ -132,7 +132,7 @@ namespace AppliGestionTrauvaux
             this.txtnom.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtnom.Location = new System.Drawing.Point(124, 119);
             this.txtnom.Name = "txtnom";
-            this.txtnom.Size = new System.Drawing.Size(392, 26);
+            this.txtnom.Size = new System.Drawing.Size(177, 26);
             this.txtnom.TabIndex = 8;
             // 
             // txtprenom
@@ -140,7 +140,7 @@ namespace AppliGestionTrauvaux
             this.txtprenom.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtprenom.Location = new System.Drawing.Point(124, 161);
             this.txtprenom.Name = "txtprenom";
-            this.txtprenom.Size = new System.Drawing.Size(392, 26);
+            this.txtprenom.Size = new System.Drawing.Size(177, 26);
             this.txtprenom.TabIndex = 9;
             // 
             // txtphone
@@ -148,7 +148,7 @@ namespace AppliGestionTrauvaux
             this.txtphone.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.txtphone.Location = new System.Drawing.Point(124, 261);
             this.txtphone.Name = "txtphone";
-            this.txtphone.Size = new System.Drawing.Size(392, 26);
+            this.txtphone.Size = new System.Drawing.Size(177, 26);
             this.txtphone.TabIndex = 10;
             // 
             // cbograde
@@ -173,7 +173,7 @@ namespace AppliGestionTrauvaux
             this.btnEnregistrer.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnEnregistrer.Image = global::AppliGestionTrauvaux.Properties.Resources.save;
             this.btnEnregistrer.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnEnregistrer.Location = new System.Drawing.Point(12, 314);
+            this.btnEnregistrer.Location = new System.Drawing.Point(345, 79);
             this.btnEnregistrer.Name = "btnEnregistrer";
             this.btnEnregistrer.Size = new System.Drawing.Size(119, 36);
             this.btnEnregistrer.TabIndex = 12;
@@ -188,7 +188,7 @@ namespace AppliGestionTrauvaux
             this.btnSupprimer.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnSupprimer.Image = ((System.Drawing.Image)(resources.GetObject("btnSupprimer.Image")));
             this.btnSupprimer.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSupprimer.Location = new System.Drawing.Point(150, 314);
+            this.btnSupprimer.Location = new System.Drawing.Point(345, 261);
             this.btnSupprimer.Name = "btnSupprimer";
             this.btnSupprimer.Size = new System.Drawing.Size(119, 36);
             this.btnSupprimer.TabIndex = 13;
@@ -202,7 +202,7 @@ namespace AppliGestionTrauvaux
             this.btnModifier.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnModifier.Image = ((System.Drawing.Image)(resources.GetObject("btnModifier.Image")));
             this.btnModifier.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnModifier.Location = new System.Drawing.Point(289, 314);
+            this.btnModifier.Location = new System.Drawing.Point(345, 200);
             this.btnModifier.Name = "btnModifier";
             this.btnModifier.Size = new System.Drawing.Size(119, 36);
             this.btnModifier.TabIndex = 14;
@@ -216,7 +216,7 @@ namespace AppliGestionTrauvaux
             this.btnRechercher.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnRechercher.Image = ((System.Drawing.Image)(resources.GetObject("btnRechercher.Image")));
             this.btnRechercher.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnRechercher.Location = new System.Drawing.Point(430, 314);
+            this.btnRechercher.Location = new System.Drawing.Point(345, 136);
             this.btnRechercher.Name = "btnRechercher";
             this.btnRechercher.Size = new System.Drawing.Size(119, 36);
             this.btnRechercher.TabIndex = 15;
